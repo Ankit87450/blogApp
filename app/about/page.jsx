@@ -43,21 +43,21 @@ const About = () => {
           <p className="text-lg">
             Feel free to reach out to us at Linkedin :{" "}
             <a
-              href="https://www.linkedin.com/in/ankit-kumar-0b91bb23a/"
+              href="https://www.linkedin.com/in/ankit-modi-517aa4217/"
               className="text-blue-600 underline"
               target="_main"
             >
-              ankit-kumar-0b91bb23a
+              ankit-modi-517aa4217
             </a>
           </p>
           <p className="text-lg">
             Feel free to reach out to us at GitHub :{" "}
             <a
-              href="https://github.com/AnkitGupta30"
+              href="https://github.com/Ankit87450"
               className="text-blue-600 underline"
               target="_main"
             >
-              AnkitGupta30
+              Ankit87450
             </a>
           </p>
           <p className="text-lg">
@@ -66,7 +66,7 @@ const About = () => {
               href="mailto:contact@ourcompany.com"
               className="text-blue-600 underline"
             >
-              ankitgupta72950@gmail.com
+              ankitmodi87450@gmail.com
             </a>
             .
           </p>
